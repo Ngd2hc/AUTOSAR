@@ -1,0 +1,12 @@
+; Input Files 
+ "C:\ETASData\ISOLAR-A\workspace\prac_0125\Components.arxml"
+ "C:\ETASData\ISOLAR-A\workspace\prac_0125\Compositions.arxml"
+ "C:\ETASData\ISOLAR-A\workspace\prac_0125\ECU_CFG.arxml"
+ "C:\ETASData\ISOLAR-A\workspace\prac_0125\EcuInstance_0_FlatMap.arxml"
+ "C:\ETASData\ISOLAR-A\workspace\prac_0125\EcuInstance_0_FlatView_SWCD.arxml"
+ "C:\ETASData\ISOLAR-A\workspace\prac_0125\Interface.arxml"
+ "C:\ETASData\ISOLAR-A\workspace\prac_0125\ISOLAR_PlatformTypes.arxml"
+ "C:\ETASData\ISOLAR-A\workspace\prac_0125\OS_CFG.arxml"
+ "C:\ETASData\ISOLAR-A\workspace\prac_0125\RTE_CFG.arxml"
+ "C:\ETASData\ISOLAR-A\workspace\prac_0125\Systems.arxml"
+ "C:\ETASData\ISOLAR-A\workspace\prac_0125\VrSys_EcuExtr.arxml"
